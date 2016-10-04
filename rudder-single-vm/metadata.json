@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy a Rudder server on Ubuntu to Azure",
+  "description": "This template deploys a ready-to-use Rudder server on an Ubuntu 14.04 ("Trusty Tahr") machine. Once the deployment is finished, you can go to https://fqdn.of.your.vm/ and enjoy your brand new Rudder server!",
+  "summary": "Deploy a Rudder server on Ubuntu to Azure",
+  "githubUsername": "Kegeruneku",
+  "dateUpdated": "2016-10-07"
+}
